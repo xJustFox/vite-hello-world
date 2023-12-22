@@ -12,10 +12,8 @@ export default {
 
 <template lang="">
 
-  <AppHero>
-  </AppHero>
-  <AppTitle>
-  </AppTitle>
+  <AppHero />
+  <AppTitle />
   
 </template>
 
